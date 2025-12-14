@@ -1,0 +1,144 @@
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Файлы с паролями и базы данных
+elliot_users.json
+*.json
+*.db
+*.sqlite
+*.sqlite3
+*.db3
+
+# Файлы с секретами и ключами
+secret.key
+*.key
+*.pem
+*.crt
+*.cert
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config_secret.py
+secrets.py
+secrets.txt
+password.txt
+credentials.json
+
+# Логи и временные файлы
+*.log
+logs/
+temp/
+tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Файлы операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Файлы IDE и редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-*
+*.code-workspace
+
+# Выходные файлы и пакеты
+dist/
+build/
+*.egg-info/
+*.egg
+.coverage
+.coverage.*
+htmlcov/
+
+# Профили и дампы
+*.prof
+*.profraw
+
+# Пип и установочные файлы
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Архивы
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Документы
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
