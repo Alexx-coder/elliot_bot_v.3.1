@@ -1,0 +1,20 @@
+{
+  "1": {
+    "login": "demo_user",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "commands": {},
+    "admin": false
+  },
+  "2": {
+    "login": "test_admin",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "commands": {},
+    "admin": true
+  },
+  "3": {
+    "login": "python_beginner",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "commands": {},
+    "admin": false
+  }
+}
